@@ -9,7 +9,7 @@
 <h3>Мой стек:</h3>
 <div align="left">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
-  <img>
+  <img scr="">
 </div>
 
 <div align="center">

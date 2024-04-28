@@ -8,10 +8,9 @@
   
 <h3>Мой стек:</h3>
 <div align="left">
-  
-  <img width="90px" height="70px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171074.png">
-  <img width="90px" height="70px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg">
-  <img width="80px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg">
+  <img width="90px" height="70px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg">
+  <img width="90px" height="70px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-original.svg">
+  <img width="90px" height="70px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rider/rider-original.svg">
 </div>
 
 <div align="center">

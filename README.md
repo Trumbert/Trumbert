@@ -9,6 +9,8 @@
 <h3>Мой стек:</h3>
 <div align="left">
   <img width="80" heigth="70" scr="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg">
+  <img width="80" heigth="70" scr="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg">
+  
 </div>
 
 <div align="center">

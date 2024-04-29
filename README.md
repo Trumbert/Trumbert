@@ -2,15 +2,13 @@
 <h1 align="center">Привет! Меня зовут Алексей!</h1>
 
 
-<p align="left">я начинающий Backend-разработчик! начинаю с YouTube</p>
+<p align="left">я начинающий front-end-разработчик! начинаю с YouTube</p>
 
 <h6>извините если изображения большие, я сам почти не разбираюсь в этом!</h6>
   
 <h3>Мой стек:</h3>
 <div align="left">
-  <img width="90px" height="70px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg">
-  <img width="90px" height="70px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-original.svg">
-  <img width="90px" height="70px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rider/rider-original.svg">
+  
 </div>
 
 <div align="center">
